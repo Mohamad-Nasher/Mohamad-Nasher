@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamad Nasher</h1>
 <h3 align="center">An Economist and Data Analyst</h3>
-(img align="right" alt="Coding" width="400" src="https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif")
+<img align="right" alt="Coding" width="400" src="https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif")>
 
 <p align="left"> <a href="https://twitter.com/analystnasher" target="blank"><img src="https://img.shields.io/twitter/follow/analystnasher?logo=twitter&style=for-the-badge" alt="analystnasher" /></a> </p>
 
